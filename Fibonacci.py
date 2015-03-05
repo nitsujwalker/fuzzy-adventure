@@ -6,5 +6,4 @@ def sequence(n):
 		x, previous = x+previous, x
 		count +=1
 		
-				
 sequence(10)
