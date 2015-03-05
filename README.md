@@ -2,4 +2,5 @@
 ### This is a ReadMe file
 ---
 
-Facts will go here!
+This repository will host my projects as I work with new language.  This will mainly be swift.
+
