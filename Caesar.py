@@ -1,4 +1,3 @@
-
 var = 'abcdefghijklmnopqrstuvwxyz'*2
 
 word = raw_input("Enter a word to encode. \n\n")
